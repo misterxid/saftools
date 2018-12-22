@@ -267,20 +267,21 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 figlet "MR XiD"|lolcat
-echo "[=======================[+]=====================]"|lolcat
+echo "[===============================================]"|lolcat
 echo "[  Author :  -------------MR_XiD--------------  ]"
 echo "[===============================================]"|lolcat
 echo "[  EMAIL  :    safri4687@gmail.com              ]"
 echo "[  TEAM   :    D35TR0Y SQUAD                    ]"
 echo "[  WA     :    083851312460                     ]"
+echo "[  Note   :    NO REQOD.                        ]"
 echo "[===============================================]"|lolcat
 echo "[        GUNAKAN TOOLS INI DENGAN BENAR         ]"
-echo "[=======================[+]=====================]"|lolcat
-echo "<  D35TR0Y SQUAD | JATIM BLACKHAT.              >"|lolcat
-echo "|  ELITE MUSLIM CYBER ARMY | PONOROGO CREW        |"|lolcat
 echo "[===============================================]"|lolcat
-echo "[=======================[+]=====================]"|lolcat
-echo "[+]  Mr_XiD| MA | MR EXPLOR5 | CRUSHER.       [+]"|lolcat
+echo "[  D35TR0Y SQUAD | JATIM BLACKHAT |EMCA         ]"|lolcat       |"|lolcat
+echo "[===============================================]"|lolcat
+echo "[  Copyright©MR_XiD 2018                        ]"|lolcat
+echo "[===============================================]"|lolcat
+echo "[  Mr_XiD| MA | MR EXPLOR5 | CRUSHER.           ]"|lolcat
 echo "[===============================================]"|lolcat
 sleep 2
 python2 password.py
@@ -295,41 +296,72 @@ sleep 1
 echo ""
 echo "Silahkan Pilih Tools :)"
 echo "\033[32;1m"
+echo "<-=============================->"|lolcat
 echo $white " S.> Update Saf-Tools"
+echo "<-=============================->"|lolcat
 echo $green " 1.> sqlmap"
+echo "<-=============================->"|lolcat
 echo $green " 2.> spamsms"
+echo "<-=============================->"|lolcat
 echo $green " 3.> scanner-inurlbr"
-echo $green " 4.> tool-hack-efbeh"
+echo "<-=============================->"|lolcat
+echo $green " 4.> tool-hack-FB"
+echo "<-=============================->"|lolcat
 echo $green " 5.> nmap"
+echo "<-=============================->"|lolcat
 echo $green " 6.> matrix"
+echo "<-=============================->"|lolcat
 echo $green " 7.> RED_HAWK"
+echo "<-=============================->"|lolcat
 echo $green " 8.> bingoo buat dorking"
+echo "<-=============================->"|lolcat
 echo $green " 9.> OSIF (open source information facebook)"
+echo "<-=============================->"|lolcat
 echo $green "10.> Lazymux Tools"
+echo "<-=============================->"|lolcat
 echo $green "11.> Mempercepat Koneksi internet"
+echo "<-=============================->"|lolcat
 echo $green "12.> admin panel login panel finder"
+echo "<-=============================->"|lolcat
 echo $green "13.> Metasploit"
+echo "<-=============================->"|lolcat
 echo $green "14.> txtool"
+echo "<-=============================->"|lolcat
 echo $green "15.> Hash Killer"
+echo "<-=============================->"|lolcat
 echo $green "16.> Bot Komen FB"
+echo "<-=============================->"|lolcat
 echo $green "17.> Script-Deface-Creator"
+echo "<-=============================->"|lolcat
 echo $green "18.> Install Ngrok"
+echo "<-=============================->"|lolcat
 echo $green "19.> Download Http injector"
+echo "<-=============================->"|lolcat
 echo $green "20.> Auxscan"
+echo "<-=============================->"|lolcat
 echo $green "21.> Upload File di upfile"
+echo "<-=============================->"|lolcat
 echo $green "22.> Virus Maker"
+echo "<-=============================->"|lolcat
 echo $green "23.> Sqlbot"
+echo "<-=============================->"|lolcat
 echo $green "24.> Dengerin Musik Di Termux"
+echo "<-=============================->"|lolcat
 echo $green "25.> Mengubah Simbol "$" jadi root@Linux-#"
+echo "<-=============================->"|lolcat
 echo $green "26.> Melky bot (from sora cyber team)"
+echo "<-=============================->"|lolcat
 echo $green "27.> Aplikasi Hack Unbk "
+echo "<-=============================->"|lolcat
 echo $green "0.> exit"
+echo "<-=============================->"|lolcat
 echo "\033[32;1m"
 read -p "root@XiD-Tools-#" bro
 
 if [ $bro = U ] || [ $bro = S ]
 then
 echo "ini dulu ya gua capek 🤕"
+echo "jangan reqode cok 😑
 fi
 
 if [ $bro = 1 ] || [ $bro =1 ]
