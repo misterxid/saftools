@@ -267,21 +267,21 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 figlet "MR XiD"|lolcat
-echo "              [=======================[+]=====================]"|lolcat
-echo "              [  Author :  -------------MR_XiD--------------  ]"
-echo "              [===============================================]"|lolcat
-echo "              [  EMAIL  :    safri4687@gmail.com              ]"
-echo "              [  TEAM   :    D35TR0Y SQUAD                    ]"
-echo "              [  WA     :    083851312460                     ]"
-echo "              [===============================================]"|lolcat
-echo "              [        GUNAKAN TOOLS INI DENGAN BENAR         ]"
-echo "              [=======================[+]=====================]"|lolcat
-echo "              <  D35TR0Y SQUAD | JATIM BLACKHAT.              >"|lolcat
-echo "              |  ELITE MUSLIM CYBER ARMY | PONOROGO CREW        |"|lolcat
-echo "              [===============================================]"|lolcat
-echo "              [=======================[+]=====================]"|lolcat
-echo "              [+]  Mr_XiD| MA | MR EXPLOR5 | CRUSHER.       [+]"|lolcat
-echo "              [===============================================]"|lolcat
+echo "[=======================[+]=====================]"|lolcat
+echo "[  Author :  -------------MR_XiD--------------  ]"
+echo "[===============================================]"|lolcat
+echo "[  EMAIL  :    safri4687@gmail.com              ]"
+echo "[  TEAM   :    D35TR0Y SQUAD                    ]"
+echo "[  WA     :    083851312460                     ]"
+echo "[===============================================]"|lolcat
+echo "[        GUNAKAN TOOLS INI DENGAN BENAR         ]"
+echo "[=======================[+]=====================]"|lolcat
+echo "<  D35TR0Y SQUAD | JATIM BLACKHAT.              >"|lolcat
+echo "|  ELITE MUSLIM CYBER ARMY | PONOROGO CREW        |"|lolcat
+echo "[===============================================]"|lolcat
+echo "[=======================[+]=====================]"|lolcat
+echo "[+]  Mr_XiD| MA | MR EXPLOR5 | CRUSHER.       [+]"|lolcat
+echo "[===============================================]"|lolcat
 sleep 2
 python2 password.py
 blue='\033[34;1m'
